@@ -1,0 +1,7 @@
+npm i express express-validator 
+bcryptjs config gravatar jsonwebtoken mongoose request
+
+npm i -D nodemon concurrently
+nodemon-> Constantly watch server so no need to refresh
+concurrently-> Allow us to run server and frontend with one command.
+
